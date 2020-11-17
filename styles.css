@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+}
+h {
+    font-size: 40px;
+    color: brown;
+}
+.div1 {
+  margin: auto;
+  width: 70%;
+  height: 60rem;
+  border: 3px solid black;
+  padding: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  }
+  .head{
+      font-size: 30px;
+      margin: -6rem;
+      margin-left: 200px;
+      background-color: rgb(13, 63, 150);
+      color: white;
+      height: 3rem;  
+      width: 75%; 
+  }
+  .image {
+      width: 8rem;
+      margin: -5px;
+      margin-right: 60rem;
+  }
+  .second-heading{
+    font-size: 30px;
+    margin: 9rem;
+    margin-left: 35px;
+    background-color: rgb(13, 63, 150);
+    color: white;
+    height: 3rem;  
+    width: 91%;
+    
+  }
+  .para{
+      margin-left:10px;
+      text-align: left;
+  }
+  ul.list {
+    list-style-type: none;
+    
+  }
+  .list{
+      margin-top: 3rem;
+      margin-right: 47rem;
+      text-align-last: right;
+      font-size: 20px;
+      color: black;
+  }
+  .list1{
+    margin-top: -19rem;
+    margin-right: -30rem;
+    font-size: 20px;
+    color: rgb(105, 102, 102);
+    font-weight: 1px;
+}
+  .list2{
+    /* margin-top: -24.2rem; */
+    margin-top: -20rem;
+    /* margin-left: 18rem; */
+    margin-right: 51rem;
+    /* font-size: 23px; */
+    font-size: 20px;
+    text-align-last: right;
+    color: black;
+}
+.list3{
+    /* margin-top: -24.2rem; */
+    margin-top: -16rem;
+    margin-right: -30rem;
+    font-size: 20px;
+    color: rgb(105, 102, 102);
+    font-weight: 1px;
+}
+
+.footer{
+    font-size: 15px;
+    margin-top: 24rem;
+    color: black;
+}
+
+.third-heading{
+    font-size: 30px;
+    margin: 22rem;
+    margin-left: 35px;
+    background-color: rgb(13, 63, 150);
+    color: white;
+    height: 3rem;  
+    width: 91%;
+
+}
